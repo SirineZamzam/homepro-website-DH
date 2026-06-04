@@ -1167,9 +1167,7 @@ body {
     }
 }
 
-/* ==========================================================================
-   CONSOLIDATED MOBILE RESPONSIVE VIEWS (ALL SCREEN OVERRIDES COMBINED)
-   ========================================================================== */
+/* CONSOLIDATED MOBILE RESPONSIVE VIEWS */
 @media (max-width: 991px) {
     .main-box {
         margin: 0;
