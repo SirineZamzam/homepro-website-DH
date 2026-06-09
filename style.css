@@ -1710,7 +1710,6 @@ body {
         font-size: 13px !important;
     }
 }
-<<<<<<< HEAD
 @media (min-width: 992px) {
     .navbar {
         max-width: 1440px;
@@ -1719,5 +1718,3 @@ body {
         padding-right: 85px !important;
     }
 }
-=======
->>>>>>> 0530c8b804c097ed96616c2de286e97b9ce40554
